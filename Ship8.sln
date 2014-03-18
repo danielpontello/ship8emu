@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ship8", "Ship8\Ship8\Ship8.csproj", "{3795ED9D-499A-4C65-8B4C-711ED8DD436F}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Ship8Content", "Ship8\Ship8Content\Ship8Content.contentproj", "{334AAF05-A85B-47C9-8EAE-E701A2B81371}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3795ED9D-499A-4C65-8B4C-711ED8DD436F}.Debug|x86.ActiveCfg = Debug|x86
+		{3795ED9D-499A-4C65-8B4C-711ED8DD436F}.Debug|x86.Build.0 = Debug|x86
+		{3795ED9D-499A-4C65-8B4C-711ED8DD436F}.Release|x86.ActiveCfg = Release|x86
+		{3795ED9D-499A-4C65-8B4C-711ED8DD436F}.Release|x86.Build.0 = Release|x86
+		{334AAF05-A85B-47C9-8EAE-E701A2B81371}.Debug|x86.ActiveCfg = Debug|x86
+		{334AAF05-A85B-47C9-8EAE-E701A2B81371}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
